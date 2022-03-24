@@ -25,7 +25,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Nando-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" alt="Nando-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Nando-NetBeans" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/104px-Apache_NetBeans_Logo.svg.png?" />
+  <img align="center" alt="Nando-NetBeans" height="35" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/104px-Apache_NetBeans_Logo.svg.png?" />
   <img align="center" alt="Nando-Eclipse" height="30" width="35" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg"/>
   <img align="center" alt="Nando-Unity" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
   <img align="center" alt="Nando-AndroidStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
@@ -37,8 +37,6 @@
   <a href="https://web.whatsapp.com/send?phone=5511957948206&amp;" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  	<a href="mailto:fernando_vinicius252@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href = "mailto:viniciusfernando252@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fernando-vinicius-ba6370192" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/fernando-vinicius252)
+  <a href="https://www.linkedin.com/in/fernando-vinicius-ba6370192" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>

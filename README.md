@@ -1,6 +1,7 @@
-## Oii eu sou a Fernando Vinicius, Programador Full-stack, desenvolvedor de games e videomaker!
+## Oii eu sou a Fernando Vinicius, Apaixonado por tecnologia e estudante de Sistemas da informação.
 - 🎓 Tecnico em Desenvolvimento de Sistemas
-- 🖥🖱 Cursando Sistemas da Informação
+- 🖥🖱 Cursando Bacharelado em Sistemas da Informação na UNIP
+- 🤖 Em busca da minha primeira oportunidade como desenvolvedor Jn.
 
 <div align="center">
   <a href="https://github.com/fernando-vinicius252">
